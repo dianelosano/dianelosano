@@ -1,4 +1,6 @@
 ### <h4> Hi, I'm Diane 👋 </h4>
+
+  
 <h5>I'm a System Analyst and back-end developer since 2010 and I'm currently learning front-end. </h5>
   <div style="display: inline_block">
   <img align="center" alt="Di-Js" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,7 +12,11 @@
   <div>
   <a href="https://github.com/dianelosano">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dianelosano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
+  </div>  
+ <div>
+  <a href="https://github.com/dianelosano">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianelosano&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   <div>
   <a href="https://www.linkedin.com/in/dianelopeslosano/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
